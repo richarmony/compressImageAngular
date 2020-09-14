@@ -136,5 +136,8 @@
       }
     }
   },
-  "defaultProject": "imageCompress"
+  "defaultProject": "imageCompress",
+  "cli": {
+    "analytics": false
+  }
 }
